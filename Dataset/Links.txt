@@ -1,0 +1,5 @@
+Link para o dataset:
+https://www.unb.ca/cic/datasets/ddos-2019.html
+
+Link para a ferramenta CicFlowMeter que extrai dados dos arquivos brutos (PCPAS)
+https://github.com/ahlashkari/CICFlowMeter
